@@ -9,9 +9,10 @@ public class Calculator {
 	private int A;
 	private int B;
 	private int sum;
-	private String SecretKey = "arsger6546Erfgdega6876srgFEFGE687srwfg";
-	private String AccessId = "SIDG*&FH*I&6876srgFEFGE687srwfg";
-	private String AwsSecretKey = "arsger6546Erfgdega6876srgFEFGE687srwfg";
+	private String SecretKey = "";
+	private String AccessId = "";
+	private String AwsSecretKey = "";
+	private String AndrewBarkeysPassword = "";
 	
 	public int getA() {
 		return A;
